@@ -1,4 +1,3 @@
-# solution-lab-3.08-vitalik
 1) Using the Spring JPA model the relationships of the below application: Assume that you are working with an Association of Nurses. 
 They need to model the association and its members.
 
